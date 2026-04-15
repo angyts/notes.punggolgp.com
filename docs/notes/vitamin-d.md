@@ -12,4 +12,6 @@ To get from sunlight, you need at least 30 minutes of sunlight daily.
 |----------------|-----------------|------------------|----------------------|-----------------------------------------------|
 | Deficient      | <15             | <37.5            | Severe deficiency     | D-Cure 25,000 IU, 2x/week for 8 weeks         |
 | Insufficient   | 15–30           | 37.5–75          | Mild deficiency       | D-Cure 25,000 IU, 2x/week for 4 weeks         |
-| Sufficient     | >30             | >75              | Adequate              | Maintenance (D-Cure 1/month OR 1000 IU daily)         |
+| Sufficient     | >30             | >75              | Adequate              | Maintenance (D-Cure 1-2/month OR 1000 IU daily)         |
+
+- Monthly maintainence dose works better to maintain Vit D levels compared to daily dose
