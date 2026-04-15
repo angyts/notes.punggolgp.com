@@ -1,49 +1,39 @@
 ---
-contributors: false
-lastUpdated: false
+title: Medical Notes
 ---
 
-# All Songs
+# 🩺 Medical Notes
 
-All pages here contain songs (in Swahili) that I settle on and decide to learn their lyrics, periodically.
+Welcome to your personal medical reference.
 
-::: details
+Use the sidebar to navigate topics.
 
-`songs` here (the directory and contents) is used as an example of document directory that will be a collection in Decap CMS. The `index.md` files are within directories named in the format "YYYY-MM-DD".
+---
 
-Update as needed.
+## 📚 Sections
 
-```txt:no-line-numbers
-. (Root)
-├── docs
-│   ├── .vuepress
-│   │   │   ...
-│   │   └── config.ts
-│   ├── README.md
-│   └── songs
-│       ├── 2023-04-10
-│       │   └── index.md
-│       ├── 2023-04-17
-│       │   └── index.md
-│       │   ...
-│       └── index.md (Current file)
-│   ...
-├── README.md
-└── yarn.lock
-```
+- Cardiology
+- Neurology
+- Respiratory
+- Gastroenterology
+- Endocrinology
 
-:::
+---
 
-The pages have a standard format.
+## 📝 How to use
 
-## Format
+- Add notes via the **/admin** panel
+- Notes will automatically appear in the sidebar
+- Use clear titles for quick lookup
 
-- Title
-- Links
-  - Youtube
-  - Spotify
-- Lyrics (with translations if available)
+---
 
-## Popular songs
+## ⚡ Quick Tips
 
-- [Tuko tayari (Mwanga Band)](/songs/2023-04-10)
+- Keep notes short and structured
+- Use bullet points for readability
+- Add tags for future organisation
+
+---
+
+> This is your personal clinical knowledge base — keep it simple and fast to use.
