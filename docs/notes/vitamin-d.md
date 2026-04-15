@@ -14,4 +14,6 @@ To get from sunlight, you need at least 30 minutes of sunlight daily.
 | Insufficient   | 15–30           | 37.5–75          | Mild deficiency       | D-Cure 25,000 IU, 2x/week for 4 weeks         |
 | Sufficient     | >30             | >75              | Adequate              | Maintenance (D-Cure 1-2/month OR 1000 IU daily)         |
 
+
 - Monthly maintainence dose works better to maintain Vit D levels compared to daily dose
+- Dr Leong Hoe Nam says that when people go into ICU, they tend to have single digit Vit D levels, so he believes it has an immunological function as well. And hence he recommends replacing to **>50**.
