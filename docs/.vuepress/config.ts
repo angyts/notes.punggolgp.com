@@ -45,8 +45,16 @@ export default defineUserConfig({
     sidebar: {
       "/notes": [
         {
-          text: "Medical Notes",
-          children: noteFiles,
+          text: "Dermatology",
+          children: noteFiles.filter(f => f.includes("/dermatology/")),
+        },
+        {
+          text: "Endocrinology",
+          children: noteFiles.filter(f => f.includes("/endocrine/")),
+        },
+        {
+          text: "Respiratory",
+          children: noteFiles.filter(f => f.includes("/respiratory/")),
         },
       ],
     },
