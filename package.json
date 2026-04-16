@@ -1,9 +1,9 @@
 {
   "name": "vuepress-decapcms-netlify",
   "version": "1.0.0",
-  "description": "Vuepress boilerplate integrated with Decap CMS hosted on Netlify",
+  "description": "A Note-taking website built with VuePress, DecapCMS and Netlify",
   "main": "index.js",
-  "author": "(Stanley Ndagi <stan@md.engineer>)",
+  "author": "Dr Paul Ang",
   "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
