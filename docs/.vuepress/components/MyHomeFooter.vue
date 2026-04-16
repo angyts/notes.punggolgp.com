@@ -1,25 +1,65 @@
 <template>
   <div class="push"></div>
+
   <div class="footer center">
     <div>
-      Released under the <a href="https://choosealicense.com/licenses/mit/" target="_blank">MIT License</a>
+      MIT Licensed |
+      By
+      <a href="https://punggolgp.com/doctors" target="_blank">
+        Dr Paul Ang
+      </a>
+      | AD {{ year }}
     </div>
-    <div>
-      By <a href="https://md.engineer" target="_blank">Stan_MD</a> | AD {{ year }}
+
+    <div class="subtext">
+      Found an error or want to improve a note?
+      <a :href="githubIssueLink" target="_blank">
+        Suggest a change on GitHub
+      </a>
     </div>
-    <div>
-      <a href="https://github.com/NdagiStanley/VueDN " target="_blank">GitHub Repository</a>
+
+    <div class="subtext">
+      <a
+        href="https://github.com/angyts/notes.punggolgp.com"
+        target="_blank"
+      >
+        View Repository
+      </a>
     </div>
   </div>
 </template>
+
 <script>
-const d = new Date()
-const currentYear = d.getFullYear()
 export default {
   data() {
     return {
-      year: currentYear
+      year: new Date().getFullYear(),
+      githubIssueLink:
+        "https://github.com/angyts/notes.punggolgp.com/issues/new"
     }
   }
 }
 </script>
+
+<style scoped>
+.footer {
+  padding: 2rem 1rem;
+  border-top: 1px solid var(--vp-c-border);
+  background: var(--vp-c-bg-soft);
+}
+
+.footer a {
+  color: var(--vp-c-brand);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.subtext {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+</style>

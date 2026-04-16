@@ -40,6 +40,10 @@ export default defineUserConfig({
         text: "Admin",
         link: "/admin/",
       },
+      {
+        text: "Suggest Changes",
+        link: "https://github.com/angyts/notes.punggolgp.com/issues/new",
+      },
     ],
 
     sidebar: {
