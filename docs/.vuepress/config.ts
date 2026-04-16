@@ -28,7 +28,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     logo: "vue.png",
     notFound: [
-      "There's nothing here. If you're looking for DecapCMS, manually enter `/admin` to the root site path.",
+      "Sometimes you need to get lost to be found",
     ],
 
     navbar: [
@@ -37,8 +37,8 @@ export default defineUserConfig({
         link: "/notes/",
       },
       {
-        text: "GitHub",
-        link: "https://github.com/NdagiStanley/VueDN",
+        text: "Admin",
+        link: "/admin/",
       },
     ],
 

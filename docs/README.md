@@ -1,21 +1,53 @@
 ---
 home: true
-title: Vuepress-Decap-Netlify
-tagline: A Vuepress boilerplate integrated with Decap CMS hosted on Netlify
-heroText: Vuepress-Decap-Netlify
-heroImage: hero.png
+title: Medical Notes
+tagline: Personal Clinical Reference
+heroText: 🩺 Medical Notes
+heroImage: null
+
 actions:
-  - text: Set up this template
-    link: /template
+  - text: Browse Notes
+    link: /notes/
     type: primary
+  - text: Open Admin
+    link: /admin/
+    type: secondary
 ---
 
 <div class="center">
-<div class="spaced">
-  This template is built on VuePress, allow access and editing via DecapCMS, and is hosted on Netlify. <br><b>"Songs?"</b> you wonder... <a href="https://md.engineer/" target="_blank">The author</a> uses <a href="/songs/">songs</a> (as an example of content)
-</div>
-<div class="spaced">
-  To use the CMS, <a href="/template/#setup">set up this template</a>, head to <a href="/admin/" target="_blank"><code>/admin/</code> path on your site</a>, and login.
-  <br>Otherwise, get a feel of the CMS <a href="https://cms-demo.netlify.com/" target="_blank">here</a>.
-</div>
+
+### 📚 Quick Access
+
+- 🫀 Cardiology  
+- 🧠 Neurology  
+- 🫁 Respiratory  
+- 🍽️ Gastroenterology  
+- 🧪 Endocrinology  
+
+---
+
+### 🔍 What this is
+
+A personal, fast-access medical knowledge base.
+
+- Short, structured notes  
+- Built for quick lookup  
+- Continuously updated  
+
+---
+
+### ⚡ How to use
+
+1. Go to <code>/admin/</code>  
+2. Add or edit notes  
+3. Changes appear automatically  
+
+---
+
+### 🧠 Design philosophy
+
+- Keep notes concise  
+- Prioritise clarity over completeness  
+- Optimised for real-world use  
+
 </div>
