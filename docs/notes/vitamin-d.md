@@ -17,3 +17,7 @@ To get from sunlight, you need at least 30 minutes of sunlight daily.
 
 - Monthly maintainence dose works better to maintain Vit D levels compared to daily dose
 - Dr Leong Hoe Nam says that when people go into ICU, they tend to have single digit Vit D levels, so he believes it has an immunological function as well. And hence he recommends replacing to **>50**.
+- Vitamin D levels inversely associated with risk of respiratory tract infections
+- Can reduce risk of URTI, reduce COVID and its severity
+- 1000 iu/day child, 2000-4000 iu/day adult
+- In very sick patients, even D-cure daily x 1/52
