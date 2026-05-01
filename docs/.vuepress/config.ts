@@ -68,6 +68,10 @@ export default defineUserConfig({
           text: "Vaccinations",
           children: noteFiles.filter(f => f.includes("/vaccinations/")),
         },
+        {
+          text: "Gynaecology",
+          children: noteFiles.filter(f => f.includes("/gynaecology/")),
+        },        
       ],
     },
   }),

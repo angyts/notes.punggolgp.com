@@ -1,7 +1,7 @@
 {
   "name": "vuepress-decapcms-netlify",
   "version": "1.0.0",
-  "description": "A Note-taking website built with VuePress, DecapCMS and Netlify",
+  "description": "For keeping important notes useful for family physicians",
   "main": "index.js",
   "author": "Dr Paul Ang",
   "license": "MIT",

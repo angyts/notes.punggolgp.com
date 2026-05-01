@@ -5,7 +5,9 @@ date: 2026-05-01
 
 ## Practice guide
 
-[Sg Calculator](https://cvd.clinicaltools.mohtgroup.com/)
+[Source: ACE guidelines](https://www.ace-hta.gov.sg/healthcare-professionals/ace-repository-for-clinical-guidelines/lipid-management-focus-on-cardiovascular-risk/)
+
+[Sg Risk Calculator](https://cvd.clinicaltools.mohtgroup.com/)
 
 ## Chart from ACE
 
