@@ -49,16 +49,20 @@ export default defineUserConfig({
     sidebar: {
       "/notes": [
         {
+          text: "Cardiology",
+          children: noteFiles.filter(f => f.includes("/cardiology/")),
+        },
+        {
+          text: "Respiratory",
+          children: noteFiles.filter(f => f.includes("/respiratory/")),
+        },        
+        {
           text: "Dermatology",
           children: noteFiles.filter(f => f.includes("/dermatology/")),
         },
         {
           text: "Endocrinology",
           children: noteFiles.filter(f => f.includes("/endocrine/")),
-        },
-        {
-          text: "Respiratory",
-          children: noteFiles.filter(f => f.includes("/respiratory/")),
         },
         {
           text: "Vaccinations",

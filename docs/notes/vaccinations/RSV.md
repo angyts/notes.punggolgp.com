@@ -34,6 +34,10 @@ There are 2 main brands in singapore: Arexvy (GSK) and Abrysvo (Pfizer)
 
 Monoclonal antibody to target RSV Fusion (F) protein, prevents it from binding and entering into cells. It confers passive immunity to infants.
 
+<5 kg → 50 mg
+
+≥5 kg → 100 mg
+
 ### Recommendation
 
 - Best is for passive immunity from mother: to give Abrysvo to mother at 32-36/52 GA
