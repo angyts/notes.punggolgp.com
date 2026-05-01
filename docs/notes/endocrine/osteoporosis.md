@@ -5,7 +5,7 @@ date: 2026-04-15
 ## Osteoporosis
 Source: CME talk by Dr Dinesh Mahendran | Endocrine
 
-![](/media/age-related-changes-in-bone-mass-in-men-and-women-reproduced-with-permission-from.png)
+![Bone mass decline](https://notes-media.punggolgp.com/age-related-changes-in-bone-mass-in-men-and-women-reproduced-with-permission-from.png)
 
 - Bone mass peaks around 30.
 - Total Hip BMD is a better treatment target
