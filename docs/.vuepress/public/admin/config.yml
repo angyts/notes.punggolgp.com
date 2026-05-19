@@ -4,6 +4,8 @@ backend:
   repo: angyts/notes.punggolgp.com
   branch: main # default: master
   cms_label_prefix: decap-cms # default: netlify-cms/
+  auth_type: implicit
+  app_id: Ov23liX2hVS6fVFMex14
   # Options:
   # name: github/gitlab/bitbucket # all users added must have push access to your content repository.
   # repo: owner-name/repo-name # Path to your GitHub repository
