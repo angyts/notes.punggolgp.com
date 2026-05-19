@@ -22,10 +22,12 @@ collections:
     label: "Medical Notes"
     label_singular: "Note"
     folder: "docs/notes"
-    nested: true
     create: true
     slug: "{{slug}}"
     summary: "{{title}}"
+    nested:
+      depth: 2
+      summary: "{{title}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", required: false }
