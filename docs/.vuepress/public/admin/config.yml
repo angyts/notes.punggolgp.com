@@ -1,6 +1,7 @@
 # https://decapcms.org/docs/backends-overview/
 backend:
-  name: git-gateway # adds users without giving them direct write access to your GitHub or GitLab repository.
+  name: github # adds users without giving them direct write access to your GitHub or GitLab repository.
+  repo: angyts/notes.punggolgp.com
   branch: main # default: master
   cms_label_prefix: decap-cms # default: netlify-cms/
   # Options:
