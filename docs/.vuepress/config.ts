@@ -32,7 +32,7 @@ export default defineUserConfig({
       },
       {
         text: "Admin",
-        link: "/admin/",
+        link: "/admin",
       },
       {
         text: "Suggest Changes",
