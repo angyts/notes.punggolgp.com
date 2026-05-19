@@ -12,7 +12,7 @@ backend:
 
 # https://decapcms.org/docs/configuration-options/
 publish_mode: editorial_workflow
-display_url: https://vuedn.netlify.app/
+display_url: https://notes.punggolgp.com/
 media_folder: "docs/.vuepress/public/media" # Media files will be stored in the repo under docs/.vuepress/public/media
 public_folder: "/media" # The src attribute for uploaded media will begin with /media
 editor:
@@ -22,6 +22,7 @@ collections:
     label: "Medical Notes"
     label_singular: "Note"
     folder: "docs/notes"
+    nested: true
     create: true
     slug: "{{slug}}"
     summary: "{{title}}"
