@@ -53,35 +53,11 @@ This condition has been under recognised for many years. Most of the things we l
 
 | Category | Code | Description | Severity / Size Grading |
 | --- | --- | --- | --- |
-| **Peritoneum** | **P** | Superficial peritoneal lesions | • **P1:** Sum < 3 cm<br>
-
-<br>• **P2:** Sum 3–7 cm<br>
-
-<br>• **P3:** Sum > 7 cm |
-| **Ovary** | **O** *(L/R)* | Endometriomas / ovarian surface foci > 5 mm | • **O1:** Sum < 3 cm<br>
-
-<br>• **O2:** Sum 3–7 cm<br>
-
-<br>• **O3:** Sum > 7 cm |
-| **Tubo-Ovarian** | **T** *(L/R)* | Adhesions & tubal mobility / patency | • **T1:** Adhesions to pelvic wall<br>
-
-<br>• **T2:** Adhesions to uterus<br>
-
-<br>• **T3:** Adhesions to USL / bowel |
-| **Deep Endometriosis** | **A, B, C** | Deeply infiltrating lesions *(as categorized above)* | • **1:** < 1 cm<br>
-
-<br>• **2:** 1–3 cm<br>
-
-<br>• **3:** > 3 cm |
-| **Extragenital & Other** | **F** | Further specific localizations | • **FA:** Adenomyosis<br>
-
-<br>• **FB:** Bladder<br>
-
-<br>• **FU:** Ureter (obstruction/congestion)<br>
-
-<br>• **FI:** Bowel (rectosigmoid > 16 cm from anus)<br>
-
-<br>• **FO:** Other locations |
+| **Peritoneum** | **P** | Superficial peritoneal lesions | **P1:** Sum < 3 cm; **P2:** Sum 3–7 cm; **P3:** Sum > 7 cm |
+| **Ovary** | **O** *(L/R)* | Endometriomas / ovarian surface foci > 5 mm | **O1:** Sum < 3 cm; **O2:** Sum 3–7 cm; **O3:** Sum > 7 cm |
+| **Tubo-Ovarian** | **T** *(L/R)* | Adhesions & tubal mobility / patency | **T1:** Adhesions to pelvic wall; **T2:** Adhesions to uterus; **T3:** Adhesions to USL / bowel |
+| **Deep Endometriosis** | **A, B, C** | Deeply infiltrating lesions | **1:** < 1 cm; **2:** 1–3 cm; **3:** > 3 cm |
+| **Extragenital & Other** | **F** | Further specific localizations | **FA:** Adenomyosis; **FB:** Bladder; **FU:** Ureter; **FI:** Bowel; **FO:** Other |
 
 ---
 
