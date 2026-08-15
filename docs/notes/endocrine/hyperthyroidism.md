@@ -36,6 +36,8 @@ Common – occurs in 5-25% of patients
 
 ### Smoking & Graves’ Disease
 
+> Counsel patients for smoking cessatio
+
 Smoking is associated with higher risk of: 
 - Graves'
 - High TRAb levels at diagnosis
