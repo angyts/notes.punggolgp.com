@@ -36,7 +36,7 @@ Common – occurs in 5-25% of patients
 
 ### Smoking & Graves’ Disease
 
-> Counsel patients for smoking cessatio
+> Counsel patients for smoking cessation
 
 Smoking is associated with higher risk of: 
 - Graves'
@@ -56,4 +56,4 @@ Smoking is associated with higher risk of:
     - Large goitre
     - Severe GO
     - <20 
-    - />60
+    - \>60
