@@ -19,7 +19,18 @@ Source: SGH endocrine update 2026
 | **200 – 600 pmol/L** | 0.6 – 1.8 ng/mL | Indeterminate | If blood glucose < 4 mmol/L or patient was fasting, repeat the test |
 | **> 600 pmol/L** | > 1.8 ng/mL | Substantial endogenous insulin production | Circumstances of testing generally do not matter |
 
+### Pancreatic islet autoantibodies
+
+Pancreatic islet autoantibodies are positive in up to 85% of Caucasian T1D, but only up to 40% in Asian populations
+
+- Anti-GAD
+- Anti-IA2
+- Anti-ZnT8
+
 ### GCK monogenic diabetes
 
 - Second most common form of monogenic diabetes
-
+- Mutation in the glucokinase (GCK) gene
+- Defect in glucose sensing → higher glucose set point
+- Monogenic diabetes is rare, around 1% of all DM
+- No treatment required, unless pregnant
