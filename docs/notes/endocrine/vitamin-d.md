@@ -21,3 +21,13 @@ To get from sunlight, you need at least 30 minutes of sunlight daily.
 - Can reduce risk of URTI, reduce COVID and its severity
 - 1000 iu/day child, 2000-4000 iu/day adult
 - In very sick patients, even D-cure daily x 1/52
+
+## Vitamin D and DM
+
+- 15% reduction in progression from prediabetes to diabetes with vitamin D supplementation
+- Mostly seen in observational studies
+
+## Vitamin D and DM
+
+- Observational studies consistently show that 25(OH)D levels <20 ng/mL are associated with a higher risk of cardiovascular disease.
+- Again observational studies but not casuality

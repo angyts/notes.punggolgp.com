@@ -11,6 +11,8 @@ Source: SGH endocrine update 2026
 - Thiamazole (TMZ)
 - Propylthiouracil (PTU)
 
+Pregnancy to check before starting ATD, contraception advice, pregnancies must be planned.
+
 ### Dose conversion
 
 - CMZ 15mg - TMZ 10mg
@@ -19,6 +21,8 @@ Source: SGH endocrine update 2026
 Conventionally given for 12-18 months course
 
 ### Minor SEs
+
+There is no guidelines for routine monitoring, can consider, FBC, LFT
 
 Pruritus, Rash/Urticaria, Arthralgia/Arthritis
 
